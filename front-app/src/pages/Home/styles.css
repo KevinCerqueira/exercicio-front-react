@@ -1,0 +1,22 @@
+#navbar{
+    background-color: #f5f5f5;
+}
+#navbar nav{
+    background-color: #7C3196;
+}
+.container-fluid{
+    padding: 3% 10% 10% 10%;
+}
+.card-content{
+    border-radius:.60rem!important
+}
+.servicos{
+    font-size: small;
+    border-radius:1.0rem!important
+}
+.color-selected{
+    background-color: #C8F4BF;
+}
+.border{
+    border: solid 1px;
+}
