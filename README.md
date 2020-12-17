@@ -11,9 +11,7 @@ Um exercicio simples para o processo seletivo da @onyma
     - Express.js;
     - Knex.js.
  - Banco de dados:
-   - MySQL.
- - Hospedagem:
-   - Herokuapp.
+   - MySQL (Hospedado no Heroku).
 ### Onde encontrei mais dificuldade
   - Como e com o que ordenar a lista de clínicas. Para mim foi díficil pois não consegui encaixar o que eu planejava, e devido ao tempo, tive que fazer uma solução que contém um bug, e infelizmente não consegui corrigir.
 ### O que não consegui fazer (e o motivo pelo qual não conseguiu)
