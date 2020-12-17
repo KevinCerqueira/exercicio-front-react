@@ -34,11 +34,11 @@ Um exercicio simples para o processo seletivo da @onyma
 2. Executando a Aplicação:
 
 ```sh
-  # Instale as dependências nas pastas 'server/' e 'front-app'
+  # Instale as dependências
   $ npm install
 
-  # Inicie a API (entre na pasta 'server/src')
-  $ node index.js
+  # Inicie a API (entre na pasta 'server/')
+  $ npm start
 
   # Inicie a aplicação (entre na pasta 'front-app/')
   $ npm start
