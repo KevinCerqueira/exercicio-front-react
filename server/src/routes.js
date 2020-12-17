@@ -6,8 +6,9 @@ const Controller = require('./controllers/Controller');
 const routes = express.Router();
 const controller = new Controller();
 
-routes.get('/clinicas', controller.getClinicas);
+routes.get('/clinicas/:table/:type', controller.getClinicas);
 routes.get('/servicos', controller.getServicos);
-routes.get('/servicosByClinica/:id', controller.getServicosByClinica);
+routes.post('/createClinica', controller.createClinica);
+// routes.get('/servicosByClinica/:id', controller.getServicosByClinica);
 
 module.exports = routes;
