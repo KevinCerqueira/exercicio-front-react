@@ -17,7 +17,7 @@ Um exercicio simples para o processo seletivo da @onyma
 ### Onde encontrei mais dificuldade
   - Como e com o que ordenar a lista de clínicas. Para mim foi díficil pois não consegui encaixar o que eu planejava, e devido ao tempo, tive que fazer uma solução que contém um bug, e infelizmente não consegui corrigir.
 ### O que não consegui fazer (e o motivo pelo qual não conseguiu)
-  - Não consegui corrigir o bug de ordenação da lista de clinicas e não consegui recriar o layout da tela da maneira que eu almeijava, os dois devido ao tempo.
+  - Não consegui corrigir o bug de ordenação da lista de clínica, não consegui recriar o layout da tela da maneira que eu almeijava e também não consegui fazer os exceptions (por exemplo quando o usuário tenta criar uma nova clínica com um email que já está cadastrado), problemas esses devido ao tempo.
 ### Qual material de apoio buscou para a execução do exercício
   - Stack Overflow;
   - MDN web docs.
